@@ -1,0 +1,3 @@
+# 让 GitHub Pages 原样发布文件，跳过 Jekyll 处理。
+# Axure 导出物包含中文文件名、`data/`、`files/`、`resources/` 等目录，
+# 交给 Jekyll 构建容易出现资源丢失 / 404，因此必须显式关闭。
